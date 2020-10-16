@@ -1,2 +1,3 @@
 # Algoritimo em Portugol
- Aprendendo a progamar
+***
+ Aprendendo a progamar em *Portugol*
